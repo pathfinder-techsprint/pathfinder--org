@@ -1,0 +1,5 @@
+{
+  "name": "PathFinder",
+  "description": "An autonomous AI Career Intelligence Engine that analyzes skills, recommends standard technical roles, calculates match percentages, and generates visual learning roadmaps using Gemini AI.",
+  "requestFramePermissions": []
+}
