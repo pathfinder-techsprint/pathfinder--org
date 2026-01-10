@@ -37,8 +37,8 @@ import {
   FileCode
 } from 'lucide-react';
 import { AnalysisResult, RoadmapResult, RoadmapCard, RoadmapPage } from './types';
-import { analyzeResume, generateRoadmap, translateContent } from './services/careerService';
-import MatchCard from './components/MatchCard';
+import { analyzeResume, generateRoadmap, translateContent } from './careerService';
+import MatchCard from './MatchCard';
 import { SUPPORTED_LANGUAGES, UI_STRINGS, THEMES, ThemeConfig } from './constants';
 
 const App: React.FC = () => {
