@@ -150,7 +150,7 @@ export const UI_STRINGS: Record<string, any> = {
     selectTheme: "Skin"
   },
   hi: {
-    title: "करियर इंटेल",
+    title: "पथ फाइंडर",
     version: "स्थिर संदर्भ v5.6",
     runAudit: "कैलिब्रेशन ऑडिट चलाएं",
     reset: "रीसेट",
@@ -185,7 +185,7 @@ export const UI_STRINGS: Record<string, any> = {
     selectTheme: "स्किन"
   },
   te: {
-    title: "కెరీర్ ఇంటెల్",
+    title: "పాత్ ఫైండర్ ",
     version: "స్థిరమైన సందర్భం v5.6",
     runAudit: "కాలిబ్రేషన్ ఆడిట్ నిర్వహించండి",
     reset: "రీసెట్",
