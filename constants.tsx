@@ -115,7 +115,7 @@ export const SUPPORTED_LANGUAGES = [
 
 export const UI_STRINGS: Record<string, any> = {
   en: {
-    title: "Career Intel",
+    title: "Path Finder",
     version: "Stable Context v5.6",
     runAudit: "Run Calibration Audit",
     reset: "RESET",
@@ -220,7 +220,7 @@ export const UI_STRINGS: Record<string, any> = {
     selectTheme: "స్కిన్"
   },
   es: {
-    title: "Career Intel",
+    title: "Path Finder",
     version: "Contexto Estable v5.6",
     runAudit: "Ejecutar Auditoría de Calibración",
     reset: "REINICIAR",
@@ -255,7 +255,7 @@ export const UI_STRINGS: Record<string, any> = {
     selectTheme: "Piel"
   },
   fr: {
-    title: "Career Intel",
+    title: "Path Finder",
     version: "Contexte Stable v5.6",
     runAudit: "Lancer l'Audit de Calibrage",
     reset: "RÉINITIALISER",
