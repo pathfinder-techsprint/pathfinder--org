@@ -1,7 +1,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import { 
-  Brain, 
+  Brain
   ArrowRight, 
   ChevronRight, 
   CheckCircle2, 
